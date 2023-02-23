@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Arquitectura de datos</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="#">Arquitectura de datos</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="#">Inicio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Sobre nosotros</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Servicios</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#">Contacto</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="jumbotron text-center">
+      <div class="container">
+         <style>
+      img {
+        border-radius: 50%;
+        text-align: center  ;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 class="jumbotron-heading">Gobernanza de datos </h1>
+    <br>
+    <br>
+    </br>
+    </br>
+
+ <style>
+      .image-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 400px; /* Tamaño que desees */
+      }
+      .image-container img {
+        max-width: 100%; /* Tamaño máximo para asegurarse de que la imagen no se desborde */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="image-container">
+      <img src="https://unite.un.org/sites/unite.un.org/files/styles/uw_full_width/public/news_articles/blog-oict-data-gov.png?itok=P_VAB1uI" alt="Descripción de la imagen">
+    </div>
+    
+
+
+        <p class="lead text-muted">La gobernanza de datos es un conjunto de prácticas y políticas que se utilizan para gestionar, proteger y utilizar la información en una organización de manera efectiva y eficiente. La gobernanza de datos es fundamental para garantizar que los datos se utilicen de manera adecuada y que se cumplan las leyes y regulaciones aplicables.</p>
+        <p>
+          <a href="https://www.youtube.com/watch?v=fDByoUPC8vo" class="btn btn-primary my-2">Video explicativo</a>
+        </p>
+      </div>
+    </section>
+
+    <section class="features">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">Analitica de Datos</h5>
+                <p class="card-text">Antes de definir la analítica de datos, definamos primero que es un dato, El dato se refiere a la 
+representación simbólica de una entidad, por ejemplo, letras, números, puntos los cuales no tienen 
+sentido por si solos, sin embargo cuando se le da contexto a se dato, por ejemplo si indexamos un 
+numero y un texto en una tabla y les damos el contexto de que el numero se refiere al número de 
+identificación de un usuario o su número de teléfono y texto corresponde a su nombre, ese conjunto 
+de datos se convierten en información.</p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title"> Análisis de datos</h5>
+                <p class="card-text">El análisis permite detallar los datos y dar formato o establecer un suceso con respecto a 
+los datos para el análisis se utilizan técnicas como. 
+<br>
+• Asociación de datos: la cual permite encontrar relaciones entre diferentes variables. 
+Bajo la premisa de causalidad, se pretende encontrar una predicción en el comportamiento 
+de otras variables.
+</br>
+
+<br> 
+• Minería de datos: tiene como objetivo encontrar comportamientos predictivos. 
+</br >
+</p>
+ </div>
+    </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="card">
+              <div class="card-body">
+
+                <h5 class="card-title">Gobierno de Datos.</h5>
+                <p class="card-text">Sin embargo, este tipo de modelos suelen ser bastante complejos y su alineación con las 
+necesidades del negocio no es fácil de implementar, si no existe una buena estrategia que 
+garantice la generación de valor a partir de los datos. Esto hace que Gobierno de Datos 
+tome un rol protagónico en la resolución de este tipo de modelos.</p>
+              </div>
+            </div>
+          </div>
+
+ <!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      img {
+        border-radius: 0%;
+        text-align: center  ;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="https://bmind.com/wp-content/uploads/2021/07/Picture3.png" alt="Descripción de la imagen">
+  </body>
+</html>
